@@ -3,7 +3,7 @@ const transportCalculators = {
 }
 
 module.exports = {
-  transport: (distance, options) => {
+  fromTransport: (distance, options) => {
     options = options || {}
     const calculators = options.modes
       ? hashFilter(transportCalculators, (_, __, key) => key in options.modes)
