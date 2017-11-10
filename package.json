@@ -1,7 +1,7 @@
 {
-  "name": "co2",
+  "name": "carbon2",
   "version": "1.0.0",
-  "description": "Calculate carbon dioxide (co2) emissions",
+  "description": "Calculate carbon dioxide (CO²) emissions",
   "main": "src/index.js",
   "scripts": {
     "test": "jest"
