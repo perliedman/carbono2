@@ -1,0 +1,25 @@
+{
+  "name": "co2",
+  "version": "1.0.0",
+  "description": "Calculate carbon dioxide (co2) emissions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "co2",
+    "carbon",
+    "dioxide",
+    "environment"
+  ],
+  "author": "Per Liedman <per@liedman.net>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "jest": "^21.2.1"
+  }
+}
