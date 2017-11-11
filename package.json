@@ -1,5 +1,5 @@
 {
-  "name": "carbon2",
+  "name": "carbono2",
   "version": "1.0.0",
   "description": "Calculate carbon dioxide (CO²) emissions",
   "main": "src/index.js",
